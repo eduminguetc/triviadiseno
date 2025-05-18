@@ -1,0 +1,12 @@
+/* index.css */
+/* Estilos personalizados adicionales si son necesarios. */
+/* Tailwind CSS se encarga de la mayoría del diseño. */
+
+/* Puedes añadir aquí estilos muy específicos que no quieras
+   poner directamente en el HTML o que sean difíciles de lograr
+   solo con clases de Tailwind. */
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
